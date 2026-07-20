@@ -100,16 +100,14 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashawkat&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashawkat&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashawkat&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashawkat&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=ashawkat&theme=default&hide_border=true" alt="GitHub streak" />
 
 </div>
-
-> 💡 If the stats cards above are blank, the public Vercel instance is rate-limited. See the note at the bottom of this README to deploy your own free instance in ~30 seconds.
 
 ---
 
@@ -130,16 +128,15 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 ---
 
 <details>
-<summary>🔧 Stats cards not loading? Deploy your own (30 seconds)</summary>
+<summary>🔧 Stats cards not loading? Quick fix</summary>
 
-The default `github-readme-stats.vercel.app` endpoint is shared by millions of profiles and frequently returns blank due to GitHub API rate limits. Deploy your own free instance:
+The official `github-readme-stats.vercel.app` instance is shared by millions of profiles and is currently returning HTTP 503. This README already points at a community mirror (`github-readme-stats-eight-theta.vercel.app`) which works. If that mirror ever goes down too:
 
 1. Go to **[github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
-2. Click the **"Deploy to Vercel"** button in the README
-3. Authorize Vercel (free — no credit card needed)
-4. Once deployed, replace `github-readme-stats.vercel.app` in this README with your new URL (e.g. `github-readme-stats-xyz.vercel.app`)
-5. Optionally set a `GITHUB_TOKEN` env var in Vercel for ~5,000 requests/hour instead of 60
+2. Click **"Deploy to Vercel"** (free, no credit card)
+3. Replace the hostname in this README with your new `github-readme-stats-xxx.vercel.app` URL
+4. Add a `GITHUB_TOKEN` env var in Vercel for ~5,000 requests/hour
 
-The contribution graph above is on a different service and should work without changes.
+The contribution graph above is on a separate service and is unaffected.
 
 </details>
