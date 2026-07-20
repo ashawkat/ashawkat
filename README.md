@@ -88,6 +88,14 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashawkat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Adnan's contribution graph" />
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -97,9 +105,11 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashawkat&theme=default&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=ashawkat&theme=default&hide_border=true" alt="GitHub streak" />
 
 </div>
+
+> 💡 If the stats cards above are blank, the public Vercel instance is rate-limited. See the note at the bottom of this README to deploy your own free instance in ~30 seconds.
 
 ---
 
@@ -116,3 +126,20 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 <sub>💡 Open to freelance, consulting, and full-time leadership opportunities — feel free to reach out.</sub>
 
 </div>
+
+---
+
+<details>
+<summary>🔧 Stats cards not loading? Deploy your own (30 seconds)</summary>
+
+The default `github-readme-stats.vercel.app` endpoint is shared by millions of profiles and frequently returns blank due to GitHub API rate limits. Deploy your own free instance:
+
+1. Go to **[github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
+2. Click the **"Deploy to Vercel"** button in the README
+3. Authorize Vercel (free — no credit card needed)
+4. Once deployed, replace `github-readme-stats.vercel.app` in this README with your new URL (e.g. `github-readme-stats-xyz.vercel.app`)
+5. Optionally set a `GITHUB_TOKEN` env var in Vercel for ~5,000 requests/hour instead of 60
+
+The contribution graph above is on a different service and should work without changes.
+
+</details>
