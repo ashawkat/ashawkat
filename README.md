@@ -5,23 +5,21 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/3305007?v=4" width="120" height="120" alt="Adnan Shawkat" style="border-radius:50%" />
-
 # Adnan Shawkat
 
-**Head of Software Development** · Betatech
+### Head of Software Development @ Betatech
 
 Building high-quality web solutions for 12+ years with **WordPress**, **Shopify**, **PHP**, and **JavaScript** — and leading global teams to ship them.
 
-📍 Dhaka, Bangladesh · 🟢 Open to work
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🟢 Open to work
 
 </div>
 
 ---
 
-### 👋 About
+### 🧑‍💻 About
 
-I'm a software development lead focused on the WordPress & WooCommerce ecosystem, e-commerce on Shopify, and full-stack PHP/JS applications. I spend my days architecting plugins and themes, mentoring engineers, and turning ambiguous requirements into shipped products.
+I'm a software development lead focused on the WordPress & WooCommerce ecosystem, e-commerce on Shopify, and full-stack PHP/JS applications. I architect plugins and themes, mentor engineers, and turn ambiguous requirements into shipped products.
 
 - 🧩 12+ years building for the web
 - 🛒 WordPress / WooCommerce / Shopify specialist
@@ -32,14 +30,22 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 ### 🛠️ Tech Stack
 
+**Languages & Runtime**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Frameworks & Platforms**
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -58,11 +64,11 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/plugsent-connector">🔌 Plugsent Connector</a></h3>
-      <p align="center">The WordPress plugin half of Plugsent — pairs with a one-time code and reports the site's inventory every minute over an outbound, HMAC-signed channel. No inbound ports, no stored admin passwords.</p>
+      <h3 align="center"><a href="https://github.com/ashawkat/extended-trial-coupon-for-wc-subscription">🎟️ Extended Trial Coupon for WC Subscriptions</a></h3>
+      <p align="center">Published on WordPress.org — extend any subscription product's free trial with a dedicated coupon type at checkout. HPOS-compatible and works with Cart &amp; Checkout blocks.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -88,67 +94,27 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 ---
 
-### 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/oop-php-authentication-system">🔐 OOP PHP Authentication System</a></h3>
-      <p align="center">A clean, object-oriented authentication system in pure PHP. The most-starred repo on my profile — used as a learning reference by many developers.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/ashawkat/oop-php-authentication-system?style=flat-square&label=%E2%98%85" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/mix-match-bundle-for-woocommerce">🛒 Mix & Match Bundle for WooCommerce</a></h3>
-      <p align="center">Create customizable bundle promotions with tiered, quantity-based discounts — a production-grade WooCommerce extension.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/ashawkat/mix-match-bundle-for-woocommerce?style=flat-square&label=%E2%98%85" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/messmanagement">📊 Mess Management</a></h3>
-      <p align="center">A simple, lightweight system to dynamically manage a mess/shared-meal setup. Built with PHP and DataTables.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/ashawkat/messmanagement?style=flat-square&label=%E2%98%85" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/BeautyBootsWPTheme">🎨 Beauty Boots WP Theme</a></h3>
-      <p align="center">A clean, Bootstrap-based WordPress theme — one of my earlier open-source themes, still getting attention.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/ashawkat/BeautyBootsWPTheme?style=flat-square&label=%E2%98%85" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashawkat&theme=react-dark&hide_border=true&area=true" width="100%" alt="Adnan's contribution graph" />
-
-</div>
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashawkat&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashawkat&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages" />
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ashawkat&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashawkat&show_icons=true&hide_border=true&count_private=true&theme=github" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashawkat&layout=compact&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashawkat&layout=compact&hide_border=true&theme=github" height="165" alt="Top languages" />
+  </picture>
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ashawkat&theme=default&hide_border=true" alt="GitHub streak" />
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ashawkat&hide_border=true&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=ashawkat&hide_border=true&theme=default" alt="GitHub streak" />
+  </picture>
+</p>
 
 </div>
 
@@ -156,9 +122,13 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 ### 📫 Let's Connect
 
+<div align="center">
+
 <a href="https://adnanshawkat.me"><img src="https://img.shields.io/badge/Website-adnanshawkat.me-1EA1F3?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://twitter.com/adnan_shawkat"><img src="https://img.shields.io/badge/Twitter-@adnan_shawkat-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/adnan_shawkat"><img src="https://img.shields.io/badge/X-@adnan_shawkat-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://github.com/ashawkat"><img src="https://img.shields.io/badge/GitHub-ashawkat-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
@@ -167,19 +137,3 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 <sub>💡 Open to freelance, consulting, and full-time leadership opportunities — feel free to reach out.</sub>
 
 </div>
-
----
-
-<details>
-<summary>🔧 Stats cards not loading? Quick fix</summary>
-
-The official `github-readme-stats.vercel.app` instance is shared by millions of profiles and is currently returning HTTP 503. This README already points at a community mirror (`github-readme-stats-eight-theta.vercel.app`) which works. If that mirror ever goes down too:
-
-1. Go to **[github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
-2. Click **"Deploy to Vercel"** (free, no credit card)
-3. Replace the hostname in this README with your new `github-readme-stats-xxx.vercel.app` URL
-4. Add a `GITHUB_TOKEN` env var in Vercel for ~5,000 requests/hour
-
-The contribution graph above is on a separate service and is unaffected.
-
-</details>
