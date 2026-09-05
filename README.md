@@ -45,6 +45,49 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
 
 ---
 
+### 🚀 Latest Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/ashawkat/plugsent">🛰️ Plugsent</a></h3>
+      <p align="center">Self-hosted, open-source fleet management for WordPress — a privacy-friendly alternative to WP Umbrella &amp; ManageWP. Live plugin/theme inventory, safe updates, uptime &amp; vulnerability monitoring.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP_8.3%2B-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/ashawkat/plugsent-connector">🔌 Plugsent Connector</a></h3>
+      <p align="center">The WordPress plugin half of Plugsent — pairs with a one-time code and reports the site's inventory every minute over an outbound, HMAC-signed channel. No inbound ports, no stored admin passwords.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/ashawkat/bundlecraft-for-woocommerce">🎁 BundleCraft for WooCommerce</a></h3>
+      <p align="center">Create customizable bundle promotions with tiered, quantity-based discounts — a production-grade WooCommerce extension.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/ashawkat/PYS-Sublium-Bridge">🎯 PYS ↔ Sublium Bridge</a></h3>
+      <p align="center">WordPress bridge that keeps PixelYourSite Pro accurate — skips Purchase events on Sublium subscription renewals, fires FirstTimeBuyer on a customer's first sale, and logs everything sent or blocked.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🔥 Featured Projects
 
 <table>
