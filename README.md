@@ -11,7 +11,7 @@
 
 Building high-quality web solutions for 12+ years with **WordPress**, **Shopify**, **PHP**, and **JavaScript** — and leading global teams to ship them.
 
-📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🟢 Open to work
+📍 Sylhet, Bangladesh &nbsp;·&nbsp; 🟢 Open to work
 
 </div>
 
@@ -82,7 +82,7 @@ I'm a software development lead focused on the WordPress & WooCommerce ecosystem
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ashawkat/PYS-Sublium-Bridge">🎯 PYS ↔ Sublium Bridge</a></h3>
+      <h3 align="center"><a href="https://github.com/ashawkat/eventrelay-for-pixelyoursite-and-sublium">🎯 EventRelay for PixelYourSite &amp; Sublium</a></h3>
       <p align="center">WordPress bridge that keeps PixelYourSite Pro accurate — skips Purchase events on Sublium subscription renewals, fires FirstTimeBuyer on a customer's first sale, and logs everything sent or blocked.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
